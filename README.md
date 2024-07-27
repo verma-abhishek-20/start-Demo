@@ -3,7 +3,7 @@ This is demo for Git &amp; Github class!!
 
 
 # Fruit
-Apple
+Apple.mango
 
 # color
 Red
