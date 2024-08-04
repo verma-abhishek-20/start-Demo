@@ -6,6 +6,6 @@ This is demo for Git &amp; Github class!!
 Apple,mango,Lichi,Grapes
 
 # color
-Red
+Red,green
 
 
